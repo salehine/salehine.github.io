@@ -1,5 +1,5 @@
 {
-    "bundelIdentifire": "com.practicenumbers.pbnapp",
+    "bundelIdentifier": "com.practicenumbers.pbnapp",
     "version": "1",
     "build": 1,
     "forceUpdateRequired": false,
